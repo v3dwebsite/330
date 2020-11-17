@@ -1,7 +1,7 @@
 ---
 slider:
   enable: true
-  bg_image: "/images/0g2.jpg, /images/slide-2-1-825x409.jpg"
+  bg_image: "/images/0g2.jpg"
   slider_item:
   - title: Nettoyage
     content: Nettoyage de bureaux, entrepôts, hôtels, locaux publics, surface communes
